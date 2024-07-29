@@ -8,3 +8,4 @@ xhofe/alist:latest
 mariadb:latest
 php:latest
 redis:latest
+#没有执行
