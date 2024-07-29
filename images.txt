@@ -6,6 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #自定义
 mariadb:latest
-php:latest
 redis:latest
-#没有执行
+kuaifan/php:swoole-8.0.rc15
