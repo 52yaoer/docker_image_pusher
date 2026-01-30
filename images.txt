@@ -1,2 +1,2 @@
 ghcr.io/wg-easy/wg-easy:latest
-
+openresty/openresty:latest
