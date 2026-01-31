@@ -1,4 +1,1 @@
-ghcr.io/wg-easy/wg-easy:latest
-openresty/openresty:latest
-1panel/openresty:1.21.4.3-3-3-focal
-jc21/nginx-proxy-manager:2.13.6
+php:8.4.6-fpm-alpine:latest
