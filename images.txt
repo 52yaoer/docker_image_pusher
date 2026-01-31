@@ -1,1 +1,1 @@
-php:8.4.6-fpm-alpine:latest
+python:3.12-slim
