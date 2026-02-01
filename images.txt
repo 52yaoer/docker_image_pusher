@@ -1,1 +1,1 @@
-1panel/openclaw:2026.1.29
+gcpaas/dataroom:latest
