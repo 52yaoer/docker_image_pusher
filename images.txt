@@ -1,1 +1,1 @@
-openclaw-zh:nightly
+ghcr.io/1186258278/openclaw-zh:nightly
