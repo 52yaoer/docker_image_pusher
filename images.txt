@@ -1,1 +1,1 @@
-gcpaas/dataroom:latest
+ghcr.io/1186258278/openclaw-zh:nightly
